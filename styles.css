@@ -49,10 +49,10 @@ h1 span {
 }
 .links {
     list-style: none;
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 400;
     color: #fff;
-    max-width: 380px;
+    max-width: 480px;
     padding: 0;
     margin: 30px auto 0;
     border-top: 30px;
