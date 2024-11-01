@@ -29,7 +29,7 @@ h1 {
     padding: 0;
 }
 h1 span {
-    font-size: 45px;
+    font-size: 48px;
 }
 .digitando {
     padding-right: 1px;
@@ -74,8 +74,8 @@ h1 span {
 .curso {
     display: inline-block;
     position: absolute;
-    width: 2px;
-    height: 30px;
+    width: 3px;
+    height: 39px;
     background-color: #8806ce;
     transition: tranlateY(6px);
     animation: piscar 1s infinite;
