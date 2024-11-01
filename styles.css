@@ -18,7 +18,7 @@ body {
     padding: 10px;
 }
 .foto-perfil {
-    width: 120px;
+    width: 150px;
     border-radius: 50%;
     box-shadow: 0 0 0 2px #8806ce;
     border: 4px solid #15151515;
@@ -29,7 +29,7 @@ h1 {
     padding: 0;
 }
 h1 span {
-    font-size: 40px;
+    font-size: 45px;
 }
 .digitando {
     padding-right: 1px;
@@ -39,7 +39,7 @@ h1 span {
     padding-left: 1px;
 }
 .subtitulo {
-    padding-top: 5px;
+    padding-top: 9px;
     color: #555;
 }
 
@@ -52,15 +52,16 @@ h1 span {
     font-size: 17px;
     font-weight: 400;
     color: #fff;
-    max-width: 230px;
+    max-width: 380px;
     padding: 0;
     margin: 30px auto 0;
     border-top: 30px;
     padding-bottom: 30px;
+    text-transform: uppercase;
 }
 .links li {
     display: inline-block;
-    padding: 0 5px;
+    padding: 0 7px;
 }
 .links li a {
     text-decoration: none;
@@ -78,6 +79,7 @@ h1 span {
     background-color: #8806ce;
     transition: tranlateY(6px);
     animation: piscar 1s infinite;
+
 }
 
 @keyframes piscar {
