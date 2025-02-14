@@ -43,11 +43,7 @@ h1 {
     padding: 0;
 }
 h1 span {
-<<<<<<< HEAD
     font-size: 45px;
-=======
-    font-size: 48px;
->>>>>>> 00a4393de27207c1ff5c08b33a63b78aa0b9748d
 }
 .digitando {
     padding-right: 1px;
@@ -57,13 +53,8 @@ h1 span {
     padding-left: 1px;
 }
 .subtitulo {
-<<<<<<< HEAD
     padding-top: 12px;
     color: var(--cor-cinza);
-=======
-    padding-top: 9px;
-    color: #555;
->>>>>>> 00a4393de27207c1ff5c08b33a63b78aa0b9748d
 }
 
 .centro {
@@ -74,11 +65,7 @@ h1 span {
     list-style: none;
     font-size: 13px;
     font-weight: 400;
-<<<<<<< HEAD
     color: var(--cor-terciaria);
-=======
-    color: #fff;
->>>>>>> 00a4393de27207c1ff5c08b33a63b78aa0b9748d
     max-width: 380px;
     padding: 0;
     margin: 30px auto 0;
@@ -88,11 +75,7 @@ h1 span {
 }
 .links li {
     display: inline-block;
-<<<<<<< HEAD
     padding: 10px 7px;
-=======
-    padding: 0 7px;
->>>>>>> 00a4393de27207c1ff5c08b33a63b78aa0b9748d
 }
 .links li a {
     text-decoration: none;
@@ -105,15 +88,9 @@ h1 span {
 .curso {
     display: inline-block;
     position: absolute;
-<<<<<<< HEAD
     width: 2px;
     height: 30px;
     background-color: var(--cor-primaria);
-=======
-    width: 3px;
-    height: 39px;
-    background-color: #8806ce;
->>>>>>> 00a4393de27207c1ff5c08b33a63b78aa0b9748d
     transition: tranlateY(6px);
     animation: piscar 1s infinite;
 
